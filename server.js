@@ -10,8 +10,8 @@ const app = express();
 const PORT = process.env.PORT || 8080;
 
 // 🔑 Hardcoded login
-const HARD_USERNAME = "!@#$%^&*())(*&^%$#@!@#$%^&*";
-const HARD_PASSWORD = "!@#$%^&*())(*&^%$#@!@#$%^&*";
+const HARD_USERNAME = "##@@@AAAA@@@##";
+const HARD_PASSWORD = "##@@@AAAA@@@##";
 
 // ================= GLOBAL STATE =================
 
